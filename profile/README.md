@@ -1,6 +1,6 @@
 ## Put Mulesoft related information here.
-# CICD Pipeline environment setup:
-Test and production values will differ
+# CICD Pipeline GitHub environment secrets:
+Test and Prod values will differ:
 - ANYPOINT_PLATFORM_API_CLIENT_ID = AnyPoint MQ client ID from Anypoint platform -> MQ -> Client Apps
 - ANYPOINT_PLATFORM_API_CLIENT_SECRET = AnyPoint MQ client secret from Anypoint platform -> MQ -> Client Apps
 - ANYPOINT_PLATFORM_CONNECTED_APP_CLIENT_ID = CICD from the Anypoint platform -> Access management -> Connected Apps (Mule Admin required)
