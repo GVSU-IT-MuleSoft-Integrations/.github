@@ -15,3 +15,8 @@ Test and Prod values will differ:
 - ANYPOINT_PLATFORM_CONNECTED_APP_CLIENT_SECRET = CICD from Anypoint platform -> Access management -> Connected Apps
 - GVSU_NEXUS_PASSWORD = Given by MuleSoft Support (if need arises to get new password), for GVSU users currently shared via lastpass
 - MULE_ENCRYPTION_KEY = Created by GVSU IT staff, stored currently via lastpass
+
+# Tips and Tricks
+
+- When creating your api raml file in design center make sure that the name is not what you want to name the mule app on the platform
+- Basically the mule apps and api ramls are artifacts that are stored in the same place and can’t be duplicated
