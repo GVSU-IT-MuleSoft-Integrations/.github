@@ -9,8 +9,8 @@ VM Aruguments come with the mule template but sometimes don't, in case they are 
 
 # CICD Pipeline GitHub environment secrets:
 Test and Prod values will differ:
-- ANYPOINT_PLATFORM_API_CLIENT_ID = AnyPoint MQ client ID from Anypoint platform -> MQ -> Client Apps
-- ANYPOINT_PLATFORM_API_CLIENT_SECRET = AnyPoint MQ client secret from Anypoint platform -> MQ -> Client Apps
+- ANYPOINT_PLATFORM_API_CLIENT_ID = Anypoint platform -> Access Management -> unsure from here
+- ANYPOINT_PLATFORM_API_CLIENT_SECRET = Anypoint platform -> Access Management -> unsure from here
 - ANYPOINT_PLATFORM_CONNECTED_APP_CLIENT_ID = CICD from the Anypoint platform -> Access management -> Connected Apps (Mule Admin required)
 - ANYPOINT_PLATFORM_CONNECTED_APP_CLIENT_SECRET = CICD from Anypoint platform -> Access management -> Connected Apps
 - GVSU_NEXUS_PASSWORD = Given by MuleSoft Support (if need arises to get new password), for GVSU users currently shared via lastpass
