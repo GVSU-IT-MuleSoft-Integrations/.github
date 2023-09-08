@@ -2,6 +2,7 @@
 
 # Using the mule-development-template:
 Unless updating the template do not pull code from this repository. When creating a new repository here use the mule-development-template as the template during creation.
+Make sure to update the new pom file with your artifact id from mule-development-template
 
 ## VM Arguments:
 VM Aruguments come with the mule template but sometimes don't, in case they are missing when you go to run configurations under arguments tab VM arguments here is what is recommended from the MuleSoft consultant
